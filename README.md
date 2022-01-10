@@ -1,6 +1,6 @@
 # DRL-Project
 To use our project, we need to install on our jupiter notebook these dependencies:
--tenserflow 2.x :
--keras  
--keras rl2
+-Pytorch :
+-box2d-py 
+-conda
 -open AI gym enviremnet
